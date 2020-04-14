@@ -5,7 +5,8 @@
  * @Version 1.0
  */
 public class Official extends LeiFeng{
-    public void buildRoad()
+    @Override
+    public void buyRice()
     {
 
         System.out.println("修路");
