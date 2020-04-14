@@ -18,6 +18,7 @@ public class LeiFeng {
 
     public void buyRice()
     {
+
         System.out.println("买米");
     }
 }
